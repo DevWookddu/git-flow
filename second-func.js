@@ -1,3 +1,3 @@
 function secondFunc () {
-  return 2;
+  return 2 * 2;
 }
